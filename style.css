@@ -1,0 +1,70 @@
+/*author: nazmul hridoy */
+.bglightpink{
+    background-color:#fff9f4;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+h1,h2{
+    font-family: 'Bebas Neue', cursive;
+    color: tomato;
+    line-height: 70px;
+}
+.navbar .nav-link {
+    font-weight: 600;
+    padding: 10px 20px !important;
+}
+/* banner */
+.bannerp{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.banner-text h1{
+    font-size: 70px;
+    font-weight: 550;
+}
+
+.banner-text h1 span{
+    color:rgb(52, 19, 83);
+}
+/* Card */
+.c-tittle{
+    font-size: 22px;
+    color: #272942;
+    font-weight: 800;
+}
+.rate{
+    font-size: 22px;
+    color:tomato;
+    font-weight: 700;
+}
+.c-text{
+    font-size: 18px;
+}
+.casual img{
+    width: 24rem;
+    height: auto;
+    background-color: aliceblue;
+    padding: 2rem;
+    
+}
+
+.h2{
+    font-size: 50px;
+    color:rgb(23, 20, 59); ;
+}
+.btn-primary:hover{
+    background-image: linear-gradient(tomato,orange);
+}
+.formal img{
+    background-color: white;
+}
+label{
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    color: #fff9f4;  
+}
+.finalses{
+    background-color:#272942; ;
+}
